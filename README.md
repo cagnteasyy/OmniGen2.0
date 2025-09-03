@@ -15,7 +15,7 @@
 <h4 align="center">
     <p>
         <a href=#-news>News</a> |
-        <a href=#-quick-start>Quick Start</a> |
+        <a href=#-quick-start>Quick Startcgr</a> |
         <a href=#-usage-tips>Usage Tips</a> |
         <a href=#-limitations>Limitations</a> |
         <a href=#-gradio-demo>Online Demos</a> |
